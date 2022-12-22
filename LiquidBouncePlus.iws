@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="793367c0-33b9-4f8f-8159-923330545238" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiquidBouncePlus_Client.launch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LiquidBouncePlus_Server.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/ccbluex/liquidbounce/features/module/ModuleManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/ccbluex/liquidbounce/features/module/ModuleManager.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/ccbluex/liquidbounce/features/module/modules/render/Cape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/ccbluex/liquidbounce/features/module/modules/render/Cape.kt" afterDir="false" />
-    </list>
+    <list default="true" id="793367c0-33b9-4f8f-8159-923330545238" name="变更" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +82,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="c8bdde32-bcac-4433-8a40-7be935c9597e" />
-        <option name="url" value="https://github.com/WYSI-Foundation/LiquidBouncePlus" />
+        <option name="url" value="https://github.com/Hacked-Studio/Romin1337-LiquidBounce" />
       </UrlAndAccount>
     </option>
   </component>
@@ -230,8 +223,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671668618069</updated>
-      <workItem from="1671668621380" duration="5894000" />
+      <workItem from="1671668621380" duration="6224000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1671676293345</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671676293345</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,9 +250,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
 </project>
